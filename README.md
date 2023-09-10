@@ -1,4 +1,4 @@
-# Classificacao de vinhos
+# Classificacao de Contas
 
 Projeto de Machine Learning para identificação de contas que são fraudes.
 
