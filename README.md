@@ -38,7 +38,10 @@ pip datetime
 ## Testes realizados 
 
 Foi realizado teste com 1 algoritmo de Machine Learning de Classificação:
-> Script-vinho.py
+> Classificacao_de_contas.ipynb
+
+Foi realizada análise descritiva dos dados: 
+> Analise_descritiva.ipynb
 
 ## Tabelas de resultados
 
