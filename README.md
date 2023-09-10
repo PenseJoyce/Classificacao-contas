@@ -9,5 +9,5 @@ Projeto de Machine Learning para identificação de contas que são fraudes.
 
 O script tem os seguintes objetivos:
 
-1- Realizar a Análise descritiva das variáveis presente no banco de dados. \n
+1- Realizar a Análise descritiva das variáveis presente no banco de dados. <br/>
 2- Identificar as contas que são Fraude usando algorítmo de árvore de decisão.
