@@ -11,3 +11,39 @@ O script tem os seguintes objetivos:
 
 1- Realizar a Análise descritiva das variáveis presente no banco de dados. <br/>
 2- Identificar as contas que são Fraude usando algorítmo de árvore de decisão.
+
+## Bibliotecas 
+
+Estas foram as bibliotecas utilizadas
+
+```
+pip install pandas
+pip install numpy
+pip install sqlite3
+pip datetime  
+```
+
+## Informações da base 
+
+|Caracteristicas||
+|:-----|:----:|
+|Características do conjunto de dados|Multivariada|
+|Características do Atributo|String|
+|Tarefas associadas|Classificação|
+|Valores ausentes|Não|
+
+
+# Introdução 
+
+## Testes realizados 
+
+Foi realizado teste com 1 algoritmo de Machine Learning de Classificação:
+> Script-vinho.py
+
+## Tabelas de resultados
+
+| Algoritmo  | Best Acurácia |
+|:--|:--:|
+| ExtraTreesClassifier | 53.52% |
+
+
